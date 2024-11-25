@@ -8,6 +8,6 @@
 
 ### Peer Review
 
-**Reviewer**: 
+**Reviewer**:  Alexander Soria
 
-**Reviewer Notes**: 
+**Reviewer Notes**:  Nice job! Everything works as intended. Nice job setting toLowerCase for the color input. One minor recommendation would be to add a value limit of 1 for the box selection, since the only options are 1-8, but it's not entirely necessary.
